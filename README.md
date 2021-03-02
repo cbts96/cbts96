@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Giới thiệu sơ bộ về Lê Xuân Thắng</h1>
-    <div style="color:blue">Front-end Developer</div>
+    <div style="color:#4287f5">Front-end Developer</div>
 </body>
 </html>
